@@ -1,0 +1,10 @@
+{
+  "name": "bamazon-basic",
+  "version": "1.0.0",
+  "description": "my first nodejs and sql try",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
